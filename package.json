@@ -1,0 +1,17 @@
+{
+  "name": "islio",
+  "version": "0.0.0",
+  "description": "Islio is a lightweight, framework-agnostic JavaScript/TypeScript library designed to simplify microfrontend architecture",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DManavi/islio.git"
+  },
+  "keywords": [],
+  "author": "dmanavi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DManavi/islio/issues"
+  },
+  "homepage": "https://github.com/DManavi/islio#readme"
+}
